@@ -1,10 +1,10 @@
 # Explorando-o-Poder-do-ItemKNN-com-Surprise-Recomenda-o-e-Avalia-o
 
 
-ChatGPT
+
 Sistema de Recomendação com ItemKNN usando Surprise
 
-Logo
+
 
 Explore o poder do algoritmo ItemKNN para sistemas de recomendação com este repositório interativo! Utilizando a biblioteca Surprise, este projeto guia você desde a carga de dados até o treinamento do modelo e a geração de recomendações personalizadas.
 
